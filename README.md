@@ -3,7 +3,7 @@ This is For Git and Github test for DSC summer program in which all the particip
 
 ## Task Details:
 <ol>
-  <li>Fork this repo.</li>
+  <li>Fork this repository</li>
   <li>Edit the <code>info.csv</code>.</li>
   <li>Add Your Details - Don't Do anythine with first line.</li>
  <li>In the last line(which will be empty!) add all your details in <b>same series as of the first line</b>.
@@ -12,7 +12,7 @@ This is For Git and Github test for DSC summer program in which all the particip
    <br /><code>Name, Admission no., Enrollment no., program enrolled in DSC, Year, Batch, Area of expertise, Interests, Projects, email, github handle, linkdln handle,comments</code>
    <br /> <br />
    Just write <code>NA or none or '-'</code> instead of leaving blank in the respective fields!-(be sure to put comma after each details as in the example)</li>
-  <li>Then <code>Commit</code> the changes and create a PR to the DSC Repo.</li>
+  <li>Then <code>Commit</code> the changes and create a PR(Pull Request) to the DSC Repository</li>
 </ol>
 
 <b>Check this Article for help :)</b> [DigitalOcean Community Tutorias](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
