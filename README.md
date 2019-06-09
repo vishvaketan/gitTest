@@ -11,7 +11,7 @@ This is For Git and Github test for DSC summer program in which all the particip
    i.e.-
    <br /><code>Name, Admission no., Enrollment no., program enrolled in DSC, Year, Batch, Area of expertise, Interests, Projects, email, github handle, linkdln handle,comments</code>
    <br /> <br />
-   Just write <code>NA or none or '-'</code> instead of leaving blank in the respective fields!</li>
+   Just write <code>NA or none or '-'</code> instead of leaving blank in the respective fields!-(be sure to put comma after each details as in the example)</li>
   <li>Then <code>Commit</code> the changes and create a PR to the DSC Repo.</li>
 </ol>
 
