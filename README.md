@@ -1,10 +1,10 @@
 # Summers with DSC-Galgotias 
-This is For Git and Github test for DSC summer program in which all the participants need to add their details inside the `intro.csv` file in the example format so as to confirm their participation.
+This is For Git and Github test for DSC summer program in which all the participants need to add their details inside the `info.csv` file in the example format so as to confirm their participation.
 
 ## Task Details:
 <ol>
   <li>Fork this repo.</li>
-  <li>Edit the <code>intro.csv</code>.</li>
+  <li>Edit the <code>info.csv</code>.</li>
   <li>Add Your Details - Don't Do anythine with first line.</li>
  <li>In the last line(which will be empty!) add all your details in <b>same series as of the first line</b>.
    <br />
