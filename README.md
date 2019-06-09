@@ -5,6 +5,7 @@ This is For Git and Github test for DSC summer program in which all the particip
 <ol>
   <li>Fork this repository</li>
   <li>Edit the <code>info.csv</code>.</li>
+  <li><b>Don't add the new file just make change on <code>info.csv</code></b></li> 
   <li>Add Your Details - Don't Do anythine with first line.</li>
  <li>In the last line(which will be empty!) add all your details in <b>same series as of the first line</b>.
    <br />
