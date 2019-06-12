@@ -17,6 +17,7 @@ This is For Git and Github test for DSC summer program in which all the particip
 </ol>
 
 <b>Check this Article for help :)</b> [DigitalOcean Community Tutorias](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+[Git Official Docs](https://git-scm.com/doc)
 ## Successful student in building Project will get chance to win:-
 * 🥇 Google Home Speaker
 * 🥇 Google Developer T-shirts
